@@ -23,5 +23,5 @@ This project aimed to optimize workforce efficiency and employee satisfaction th
 
 **Dashboard Examples**
 
-C:\Users\khadiga\OneDrive\Pictures\Screenshots\HR dashboard\Employee Information.png
+![image alt](https://github.com/Khadiga-Hisham/HR-Analytics-Dashboard/blob/main/Employee%20Information.png?raw=true)
 
