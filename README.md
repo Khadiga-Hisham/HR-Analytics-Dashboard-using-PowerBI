@@ -3,7 +3,7 @@
 **Project Overview**
 
 This project was a collaborative effort, aimed to optimize workforce efficiency and employee satisfaction through data-driven HR analytics. 
-**Key initiatives included:**
+* **Key initiatives included:**
 
 * Leveraging Power BI to build comprehensive HR analytics dashboards.
 * Implementing targeted training programs to enhance employee skills.
@@ -12,10 +12,10 @@ This project was a collaborative effort, aimed to optimize workforce efficiency 
 
 **Key Achievements**
 
-*Increased training participation by 15%.
-*Reduced turnover in the Technology department by 10%.
-*Improved employee satisfaction by 20%.
-*Optimized staffing levels to enhance productivity.
+* Increased training participation by 15%.
+* Reduced turnover in the Technology department by 10%.
+* Improved employee satisfaction by 20%.
+* Optimized staffing levels to enhance productivity.
 
 **Dashboard Examples**
 
