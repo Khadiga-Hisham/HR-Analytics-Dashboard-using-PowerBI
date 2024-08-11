@@ -3,6 +3,7 @@
 **Project Overview**
 
 This project was a collaborative effort, aimed to optimize workforce efficiency and employee satisfaction through data-driven HR analytics. 
+
 **Key initiatives included:**
 
 * Leveraging Power BI to build comprehensive HR analytics dashboards.
