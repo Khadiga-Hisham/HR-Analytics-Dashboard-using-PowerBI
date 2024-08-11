@@ -24,5 +24,5 @@ This project aimed to optimize workforce efficiency and employee satisfaction th
 **Dashboard Examples**
 
 [Image of Demography]: Demography.png
-[Image of Employee Information]: https://github.com/Khadiga-Hisham/HR-Analytics-Dashboard/blob/79b558f885b13705a4d72c1bada86759a1446e5d/Employee%20Information.png
+[Image of Employee Information]: Employee Information.png
 [Image of Rates]: Rates.png
