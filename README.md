@@ -10,17 +10,12 @@ This project was a collaborative effort, aimed to optimize workforce efficiency 
 * Conducting workforce assessments to identify staffing gaps and optimize workloads.
 * Launching employee engagement programs to improve overall satisfaction.
 
-**Project Goals**
-
-* Increase training participation by 15%.
-* Reduce turnover in the Technology department by 10%.
-
 **Key Achievements**
 
-* Developed and deployed interactive Power BI dashboards for HR metrics.
-* Successfully launched training awareness campaigns and interactive sessions.
-* Conducted comprehensive workforce analysis to identify critical staffing needs.
-* Implemented employee engagement programs with positive feedback.
+*Increased training participation by 15%.
+*Reduced turnover in the Technology department by 10%.
+*Improved employee satisfaction by 20%.
+*Optimized staffing levels to enhance productivity.
 
 **Dashboard Examples**
 
