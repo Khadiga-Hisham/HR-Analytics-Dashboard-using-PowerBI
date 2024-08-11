@@ -23,5 +23,5 @@ This project aimed to optimize workforce efficiency and employee satisfaction th
 
 **Dashboard Examples**
 
-[HR-Analytics-Dashboard]: Demography.png
+C:\Users\khadiga\OneDrive\Pictures\Screenshots\HR dashboard\Employee Information.png
 
