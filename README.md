@@ -23,6 +23,5 @@ This project aimed to optimize workforce efficiency and employee satisfaction th
 
 **Dashboard Examples**
 
-[Image of Demography]: Demography.png
-[Image of Employee Information]: Employee Information.png
-[Image of Rates]: Rates.png
+[HR-Analytics-Dashboard]: Demography.png
+
