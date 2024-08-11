@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-This project aimed to optimize workforce efficiency and employee satisfaction through data-driven HR analytics. Key initiatives included:
+This project was a collaborative effort, aimed to optimize workforce efficiency and employee satisfaction through data-driven HR analytics. Key initiatives included:
 
 * Leveraging Power BI to build comprehensive HR analytics dashboards.
 * Implementing targeted training programs to enhance employee skills.
@@ -24,4 +24,7 @@ This project aimed to optimize workforce efficiency and employee satisfaction th
 **Dashboard Examples**
 
 ![image alt](https://github.com/Khadiga-Hisham/HR-Analytics-Dashboard/blob/main/Employee%20Information.png?raw=true)
+![image alt](https://github.com/Khadiga-Hisham/HR-Analytics-Dashboard/blob/main/Demography.png?raw=true)
+![image alt](https://github.com/Khadiga-Hisham/HR-Analytics-Dashboard/blob/main/Rates.png?raw=true)
+
 
