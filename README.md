@@ -27,4 +27,10 @@ This project was a collaborative effort, aimed to optimize workforce efficiency 
 
 ![image alt](https://github.com/Khadiga-Hisham/HR-Analytics-Dashboard/blob/main/Rates.png?raw=true)
 
+![image alt](https://github.com/Khadiga-Hisham/HR-Analytics-Dashboard-using-PowerBI/blob/e2947b1c7f461171a861c46fc2167b4b8bd3d214/1st%20CTA.png)
+
+![image alt](https://github.com/Khadiga-Hisham/HR-Analytics-Dashboard-using-PowerBI/blob/e2947b1c7f461171a861c46fc2167b4b8bd3d214/2nd%20CTA.png)
+
+
+
 
